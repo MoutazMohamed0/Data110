@@ -14,7 +14,7 @@
 
 ### Lists
 
-#### Top 5 Rappers of all time
+#### Top 5 Rappers of All Time
 1. Dylan
 2. Dylan
 3. Dylan
@@ -27,14 +27,14 @@
 - Dylan
 
 ### Links
-[Listen to Dylan](youtube.com/watch?v=Nstb5kb-1cI "He Spits Hot Fire")
+[Listen to Dylan](https://www.youtube.com/watch?v=Nstb5kb-1cI "He Spits Hot Fire")
 
 ### Images
-![Real picture of Dylan](nhb2015-02891.jpg)
+![Real picture of Dylan](dylan.jpg)
 
 ### Blockquotes
-> "Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that."
->  - Martin Luther King Jr.
+> "I Spit Hot Fire."
+>  - Dylan
 
 ### Inline Code & Code Blocks
 This is an example of `Inline Code` used within a sentance
@@ -45,22 +45,19 @@ def hello_world():
 ```
 
 ### Tables
-|Programing Language|Difficulty Level|Use Case|
-|-------------------|----------------|-------------------|
-|Python             |Easy            |Data Science, AI   |
-|Javascript         |Intermediate    |Web Development    |
-|C++                |Hard            |Systems Programming|
+|Rapper|Does He Spit Hot Fire?|Is He the GOAT?|
+|-------------------|----------------|--------|
+|Dylan              |Yes             |Yes     |
+|2pac               |No              |No      |
+|Eminem             |No              |No      |
 
 ### Task List
-- [x] Create a Markdown File
-- [x] Practice Headers
-- [ ] Learn to Make Tables
-- [ ] Create a Task List
-- [ ] Sleep Well
-- [x] Watch Football
-- [x] Play Video Games
+- [x] Wake Up
+- [x] Listen to Dylan
+- [x] Inform others of Dylan's Greatness
+- [ ] Sleep
 
 ### Footnotes
-Here's a footnote about how to add extra information to your document [^1]
+This footnote tells you what "GOAT" means [^1]
 
-[^1]: Footnotes allow you to expand on details without cluttering the main text.
+[^1]: GOAT stands for Greatest of All Time
