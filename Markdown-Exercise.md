@@ -28,4 +28,29 @@
 
 
 ### Blockquotes
+> "Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that."
+>  - Martin Luther King Jr.
+
+### Inline Code & Code Blocks
+This is an example of `Inline Code` used within a sentance
+
+...
+def_hello_world():
+  print("Hello World")
+...
+
+### Tables
+|Programing Language|Difficulty Level|Use Case|
+|-------------------|----------------|-------------------|
+|Python             |Easy            |Data Science, AI   |
+|Javascript         |Intermediate    |Web Development    |
+|C++                |Hard            |Systems Programming|
+
+### Task List
+- [x] Create a Markdown File
+- [x] Practice Headers
+- [ ] Learn to Make Tables
+- [ ] Create a Task List
+
+### Footnotes
 
