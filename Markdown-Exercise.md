@@ -51,6 +51,10 @@ def_hello_world():
 - [x] Practice Headers
 - [ ] Learn to Make Tables
 - [ ] Create a Task List
+- [ ] Sleep Well
+- [x] Watch Football
 
 ### Footnotes
+Here's a footnote about how to add extra information to your document [^1]
 
+[^1]: Footnotes allow you to expand on details without cluttering the main text.
