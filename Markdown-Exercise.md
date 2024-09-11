@@ -53,6 +53,7 @@ def hello_world():
 - [ ] Create a Task List
 - [ ] Sleep Well
 - [x] Watch Football
+- [x] Play Video Games
 
 ### Footnotes
 Here's a footnote about how to add extra information to your document [^1]
