@@ -28,7 +28,7 @@
 - Dylan
 
 ### Links
-[Listen to Dylan](https://www.youtube.com/watch?v=Nstb5kb-1cI "He Spits Hot Fire")
+[Learn About Dylan](https://www.youtube.com/watch?v=Nstb5kb-1cI "He Spits Hot Fire")
 
 ### Images
 ![Real picture of Dylan](dylan.jpg)
@@ -49,7 +49,7 @@ def hello_world():
 |Rapper|Does He Spit Hot Fire?|Is He the GOAT?|
 |-------------------|----------------|--------|
 |Dylan              |Yes             |Yes     |
-|2pac               |No              |No      |
+|2Pac               |No              |No      |
 |Eminem             |No              |No      |
 
 ### Task List
