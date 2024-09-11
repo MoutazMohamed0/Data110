@@ -34,10 +34,10 @@
 ### Inline Code & Code Blocks
 This is an example of `Inline Code` used within a sentance
 
-...
-def_hello_world():
+```
+def hello_world():
   print("Hello World")
-...
+```
 
 ### Tables
 |Programing Language|Difficulty Level|Use Case|
